@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condense:300,400,500,600,700,800,900&display=swap");
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Roboto Condensed", sans-serif;
+}
+body {
+  background-color: #00001a;
+}
+
+.text {
+  margin: 0;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.info {
+  color: #bfbfbf;
+}
+
+.info:hover {
+  color: #ffffff;
+}
+
+.text-centered {
+  font-size: 70px;
+  text-align: center;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.odkaz {
+  color: #bfbfbf;
+  text-decoration: none;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+  width: 50%;
+}
+
+.odkaz:hover {
+  text-align: center;
+  color: #00001a;
+  border: 3px solid #00001a;
+  background: #ffffff;
+}
+
+.odkaz2 {
+  color: #bfbfbf;
+  text-decoration: none;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+.odkaz2:hover {
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+}
+
+.back {
+  color: #bfbfbf;
+  text-decoration: none;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 25px;
+}
+
+.back:hover {
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+}
+
+.impact-small {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.clanek {
+  border: 2px solid #00001a;
+  border-radius: 20px;
+}
+
+.oddelovak-maly {
+  border: 25px solid #00001a;
+}
+
+.oddelovak-velky {
+  border: 2px solid #00001a;
+}
+.oddelovak-super {
+  border: 125px solid #00001a;
+}
+.oddelovak-velky-velky {
+  border: 25px solid #00001a;
+}
+.navigation {
+  text-align: center;
+}
+
+.navigation-active {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  width: 30%;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+}
+
+.footer {
+  font-size: 12px;
+  color: #bfbfbf;
+  text-align: center;
+}
