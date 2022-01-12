@@ -303,7 +303,7 @@ body {
   text-align: center;
 }
 
-nav{
+.nav{
 	position: relative;
 	margin: 10px auto 0;
 	width: 400px;
@@ -312,7 +312,7 @@ nav{
 	font-size: 0;
 	box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
 }
-nav a{
+.nav a{
 	font-size: 15px;
 	text-transform: uppercase;
 	color: white;
@@ -340,28 +340,28 @@ nav .start-home, a:nth-child(1):hover~.animation{
 	width: 110px;
 	left: 0px;
 }
-nav a:nth-child(2):hover~.animation{
+.nav a:nth-child(2):hover~.animation{
 	width: 110px;
 	left: 0px;
 }
-nav a:nth-child(2){
+.nav a:nth-child(2){
 	width: 110px;
 }
-nav a:nth-child(3):hover~.animation{
+.nav a:nth-child(3):hover~.animation{
 	width: 110px;
 	left: 100px;
 }
-nav a:nth-child(3){
+.nav a:nth-child(3){
 	width: 110px;
 }
-nav a:nth-child(4):hover~.animation{
+.nav a:nth-child(4):hover~.animation{
 	width: 110px;	
 	left: 200px;
 }
-nav a:nth-child(4){
+.nav a:nth-child(4){
 	width: 110px;
 }
-nav a:nth-child(5):hover~.animation{
+.nav a:nth-child(5):hover~.animation{
 	width: 110px;
 	left: 300px;
 }
